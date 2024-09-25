@@ -1,0 +1,10 @@
+{
+    "access_token": "ТОКЕН",
+    "domain": "iiiniamiii",
+    "post_number": 0,
+    "post_filter": {
+        "ad_allowed": false,
+        "repost_allowed": false,
+        "restricted_words": [ ]
+    }
+}
